@@ -1,0 +1,4 @@
+1209,Ariana,Vallejos,Negocios
+4080,Mariana,Solozano ,Economia
+Sofia, Sofia,Medrano,Psicologia
+8039,Nora,Obregon,Ingeneria en Sistemas
